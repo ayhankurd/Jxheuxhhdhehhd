@@ -117,7 +117,7 @@
       "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
       "transport": {
         "type": "ws",
-        "path": "/drama/document/teacher?ed=2560",
+        "path": "/bd?ed=2560",
         "headers": {
           "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
         }
@@ -140,7 +140,7 @@
       "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
       "transport": {
         "type": "ws",
-        "path": "/team/bt/files?ed=2560",
+        "path": "/search/films?ed=2560",
         "headers": {
           "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
         }
@@ -163,7 +163,7 @@
       "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
       "transport": {
         "type": "ws",
-        "path": "/streams?ed=2560",
+        "path": "/new?ed=2560",
         "headers": {
           "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
         }
@@ -186,7 +186,7 @@
       "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
       "transport": {
         "type": "ws",
-        "path": "/dh?ed=2560",
+        "path": "/pay?ed=2560",
         "headers": {
           "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
         }
@@ -209,7 +209,7 @@
       "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
       "transport": {
         "type": "ws",
-        "path": "/event?ed=2560",
+        "path": "/jump.html/images?ed=2560",
         "headers": {
           "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
         }
@@ -232,7 +232,7 @@
       "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
       "transport": {
         "type": "ws",
-        "path": "/club/play?ed=2560",
+        "path": "/home/ad?ed=2560",
         "headers": {
           "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
         }
@@ -255,7 +255,7 @@
       "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
       "transport": {
         "type": "ws",
-        "path": "/documents?ed=2560",
+        "path": "/playlist/directory/about?ed=2560",
         "headers": {
           "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
         }
@@ -278,7 +278,7 @@
       "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
       "transport": {
         "type": "ws",
-        "path": "/redirect.html/vod/chat?ed=2560",
+        "path": "/zh-cn/club?ed=2560",
         "headers": {
           "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
         }
@@ -301,7 +301,7 @@
       "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
       "transport": {
         "type": "ws",
-        "path": "/bt/seller/lessons?ed=2560",
+        "path": "/pdf/anime?ed=2560",
         "headers": {
           "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
         }
@@ -324,7 +324,7 @@
       "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
       "transport": {
         "type": "ws",
-        "path": "/photos?ed=2560",
+        "path": "/view/bd/bbs?ed=2560",
         "headers": {
           "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
         }
@@ -347,7 +347,7 @@
       "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
       "transport": {
         "type": "ws",
-        "path": "/events/www/en?ed=2560",
+        "path": "/program/topics?ed=2560",
         "headers": {
           "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
         }
@@ -370,7 +370,7 @@
       "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
       "transport": {
         "type": "ws",
-        "path": "/news/type?ed=2560",
+        "path": "/code/downloads?ed=2560",
         "headers": {
           "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
         }
@@ -393,7 +393,7 @@
       "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
       "transport": {
         "type": "ws",
-        "path": "/clip?ed=2560",
+        "path": "/class?ed=2560",
         "headers": {
           "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
         }
@@ -416,7 +416,7 @@
       "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
       "transport": {
         "type": "ws",
-        "path": "/music/files?ed=2560",
+        "path": "/help?ed=2560",
         "headers": {
           "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
         }
@@ -439,7 +439,7 @@
       "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
       "transport": {
         "type": "ws",
-        "path": "/documents?ed=2560",
+        "path": "/read?ed=2560",
         "headers": {
           "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
         }
@@ -462,7 +462,7 @@
       "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
       "transport": {
         "type": "ws",
-        "path": "/watch/clip?ed=2560",
+        "path": "/clip?ed=2560",
         "headers": {
           "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
         }
@@ -485,7 +485,7 @@
       "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
       "transport": {
         "type": "ws",
-        "path": "/outbound/section?ed=2560",
+        "path": "/clips?ed=2560",
         "headers": {
           "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
         }
@@ -508,7 +508,7 @@
       "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
       "transport": {
         "type": "ws",
-        "path": "/about/ep?ed=2560",
+        "path": "/m/streams?ed=2560",
         "headers": {
           "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
         }
@@ -531,7 +531,7 @@
       "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
       "transport": {
         "type": "ws",
-        "path": "/ajax/upload/club?ed=2560",
+        "path": "/uploads/home/events?ed=2560",
         "headers": {
           "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
         }
@@ -554,7 +554,7 @@
       "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
       "transport": {
         "type": "ws",
-        "path": "/playlist?ed=2560",
+        "path": "/act/collect?ed=2560",
         "headers": {
           "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
         }
@@ -577,7 +577,7 @@
       "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
       "transport": {
         "type": "ws",
-        "path": "/photos/pic/product?ed=2560",
+        "path": "/comic?ed=2560",
         "headers": {
           "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
         }
@@ -600,7 +600,7 @@
       "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
       "transport": {
         "type": "ws",
-        "path": "/site/activity/redirect.html?ed=2560",
+        "path": "/zh/settings/topic?ed=2560",
         "headers": {
           "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
         }
@@ -623,7 +623,7 @@
       "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
       "transport": {
         "type": "ws",
-        "path": "/apps/pictures?ed=2560",
+        "path": "/acg/service/page?ed=2560",
         "headers": {
           "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
         }
@@ -646,7 +646,7 @@
       "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
       "transport": {
         "type": "ws",
-        "path": "/index?ed=2560",
+        "path": "/m?ed=2560",
         "headers": {
           "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
         }
@@ -669,7 +669,7 @@
       "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
       "transport": {
         "type": "ws",
-        "path": "/go.php/jp/feedback?ed=2560",
+        "path": "/episode?ed=2560",
         "headers": {
           "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
         }
@@ -692,7 +692,7 @@
       "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
       "transport": {
         "type": "ws",
-        "path": "/live/topic?ed=2560",
+        "path": "/message?ed=2560",
         "headers": {
           "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
         }
@@ -715,7 +715,7 @@
       "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
       "transport": {
         "type": "ws",
-        "path": "/map/group/groups?ed=2560",
+        "path": "/channel?ed=2560",
         "headers": {
           "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
         }
@@ -738,7 +738,7 @@
       "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
       "transport": {
         "type": "ws",
-        "path": "/dh/ads?ed=2560",
+        "path": "/share/ask/playlist?ed=2560",
         "headers": {
           "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
         }
@@ -761,7 +761,7 @@
       "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
       "transport": {
         "type": "ws",
-        "path": "/forums/doujin/collection?ed=2560",
+        "path": "/page?ed=2560",
         "headers": {
           "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
         }
@@ -784,7 +784,7 @@
       "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
       "transport": {
         "type": "ws",
-        "path": "/share/group?ed=2560",
+        "path": "/class/apps?ed=2560",
         "headers": {
           "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
         }
@@ -807,7 +807,7 @@
       "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
       "transport": {
         "type": "ws",
-        "path": "/act/task?ed=2560",
+        "path": "/type?ed=2560",
         "headers": {
           "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
         }
@@ -830,7 +830,7 @@
       "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
       "transport": {
         "type": "ws",
-        "path": "/stock/temp?ed=2560",
+        "path": "/event?ed=2560",
         "headers": {
           "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
         }
@@ -853,7 +853,7 @@
       "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
       "transport": {
         "type": "ws",
-        "path": "/films?ed=2560",
+        "path": "/film/china/channels?ed=2560",
         "headers": {
           "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
         }
@@ -876,7 +876,7 @@
       "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
       "transport": {
         "type": "ws",
-        "path": "/auth/mobile/code?ed=2560",
+        "path": "/act/go.php/film?ed=2560",
         "headers": {
           "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
         }
@@ -899,7 +899,7 @@
       "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
       "transport": {
         "type": "ws",
-        "path": "/read/htm/seller?ed=2560",
+        "path": "/document/jump?ed=2560",
         "headers": {
           "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
         }
@@ -922,7 +922,7 @@
       "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
       "transport": {
         "type": "ws",
-        "path": "/html?ed=2560",
+        "path": "/tool/store?ed=2560",
         "headers": {
           "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
         }
@@ -945,7 +945,7 @@
       "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
       "transport": {
         "type": "ws",
-        "path": "/stars/pay/series?ed=2560",
+        "path": "/playlist/my?ed=2560",
         "headers": {
           "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
         }
@@ -968,7 +968,7 @@
       "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
       "transport": {
         "type": "ws",
-        "path": "/study/share/archives?ed=2560",
+        "path": "/student?ed=2560",
         "headers": {
           "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
         }
@@ -991,7 +991,7 @@
       "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
       "transport": {
         "type": "ws",
-        "path": "/photos?ed=2560",
+        "path": "/go.php?ed=2560",
         "headers": {
           "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
         }
@@ -1014,7 +1014,7 @@
       "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
       "transport": {
         "type": "ws",
-        "path": "/about?ed=2560",
+        "path": "/bt?ed=2560",
         "headers": {
           "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
         }
@@ -1037,7 +1037,7 @@
       "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
       "transport": {
         "type": "ws",
-        "path": "/ep?ed=2560",
+        "path": "/my?ed=2560",
         "headers": {
           "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
         }
@@ -1060,7 +1060,7 @@
       "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
       "transport": {
         "type": "ws",
-        "path": "/member?ed=2560",
+        "path": "/ads/collect/ajax?ed=2560",
         "headers": {
           "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
         }
@@ -1083,7 +1083,7 @@
       "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
       "transport": {
         "type": "ws",
-        "path": "/about/web?ed=2560",
+        "path": "/season/download?ed=2560",
         "headers": {
           "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
         }
@@ -1106,7 +1106,7 @@
       "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
       "transport": {
         "type": "ws",
-        "path": "/thread/messages?ed=2560",
+        "path": "/programs/order?ed=2560",
         "headers": {
           "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
         }
@@ -1129,7 +1129,7 @@
       "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
       "transport": {
         "type": "ws",
-        "path": "/series/txt?ed=2560",
+        "path": "/config/topics?ed=2560",
         "headers": {
           "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
         }
@@ -1152,7 +1152,7 @@
       "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
       "transport": {
         "type": "ws",
-        "path": "/directory/chat/tools?ed=2560",
+        "path": "/mobile?ed=2560",
         "headers": {
           "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
         }
@@ -1175,7 +1175,7 @@
       "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
       "transport": {
         "type": "ws",
-        "path": "/tag?ed=2560",
+        "path": "/search?ed=2560",
         "headers": {
           "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
         }
@@ -1198,7 +1198,7 @@
       "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
       "transport": {
         "type": "ws",
-        "path": "/home/picture?ed=2560",
+        "path": "/qa/thread/blog?ed=2560",
         "headers": {
           "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
         }
@@ -1221,7 +1221,7 @@
       "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
       "transport": {
         "type": "ws",
-        "path": "/txt?ed=2560",
+        "path": "/my?ed=2560",
         "headers": {
           "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
         }
@@ -1244,7 +1244,7 @@
       "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
       "transport": {
         "type": "ws",
-        "path": "/url/m?ed=2560",
+        "path": "/setting/member?ed=2560",
         "headers": {
           "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
         }
@@ -1267,7 +1267,7 @@
       "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
       "transport": {
         "type": "ws",
-        "path": "/my/task/seller?ed=2560",
+        "path": "/chat?ed=2560",
         "headers": {
           "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
         }
@@ -1290,7 +1290,7 @@
       "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
       "transport": {
         "type": "ws",
-        "path": "/tools/show/posts?ed=2560",
+        "path": "/content/help?ed=2560",
         "headers": {
           "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
         }
@@ -1313,7 +1313,7 @@
       "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
       "transport": {
         "type": "ws",
-        "path": "/ask/channel?ed=2560",
+        "path": "/clip?ed=2560",
         "headers": {
           "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
         }
@@ -1336,7 +1336,7 @@
       "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
       "transport": {
         "type": "ws",
-        "path": "/drama/www?ed=2560",
+        "path": "/doc/acg?ed=2560",
         "headers": {
           "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
         }
@@ -1359,7 +1359,7 @@
       "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
       "transport": {
         "type": "ws",
-        "path": "/series/album/auth?ed=2560",
+        "path": "/settings?ed=2560",
         "headers": {
           "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
         }
@@ -1382,7 +1382,7 @@
       "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
       "transport": {
         "type": "ws",
-        "path": "/doc/ep/faq?ed=2560",
+        "path": "/upload/dl?ed=2560",
         "headers": {
           "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
         }
@@ -1405,7 +1405,7 @@
       "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
       "transport": {
         "type": "ws",
-        "path": "/about/series/article?ed=2560",
+        "path": "/bt/anime/chat?ed=2560",
         "headers": {
           "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
         }
@@ -1428,7 +1428,7 @@
       "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
       "transport": {
         "type": "ws",
-        "path": "/stream/mobile/picture?ed=2560",
+        "path": "/help/seasons?ed=2560",
         "headers": {
           "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
         }
@@ -1451,7 +1451,7 @@
       "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
       "transport": {
         "type": "ws",
-        "path": "/web/dh/favs?ed=2560",
+        "path": "/film?ed=2560",
         "headers": {
           "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
         }
@@ -1474,7 +1474,7 @@
       "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
       "transport": {
         "type": "ws",
-        "path": "/chat/vip?ed=2560",
+        "path": "/dl?ed=2560",
         "headers": {
           "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
         }
@@ -1497,7 +1497,7 @@
       "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
       "transport": {
         "type": "ws",
-        "path": "/tag/feedback?ed=2560",
+        "path": "/p/player/site?ed=2560",
         "headers": {
           "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
         }
@@ -1520,7 +1520,7 @@
       "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
       "transport": {
         "type": "ws",
-        "path": "/rank/team/discount?ed=2560",
+        "path": "/qa/live/club?ed=2560",
         "headers": {
           "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
         }
@@ -1543,7 +1543,7 @@
       "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
       "transport": {
         "type": "ws",
-        "path": "/gif/search/urls?ed=2560",
+        "path": "/posts?ed=2560",
         "headers": {
           "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
         }
@@ -1566,7 +1566,7 @@
       "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
       "transport": {
         "type": "ws",
-        "path": "/dload/drama/clip?ed=2560",
+        "path": "/magnet?ed=2560",
         "headers": {
           "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
         }
@@ -1589,7 +1589,7 @@
       "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
       "transport": {
         "type": "ws",
-        "path": "/live/seller?ed=2560",
+        "path": "/downloads?ed=2560",
         "headers": {
           "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
         }
@@ -1612,7 +1612,7 @@
       "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
       "transport": {
         "type": "ws",
-        "path": "/url?ed=2560",
+        "path": "/test?ed=2560",
         "headers": {
           "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
         }
@@ -1635,7 +1635,7 @@
       "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
       "transport": {
         "type": "ws",
-        "path": "/lib/link?ed=2560",
+        "path": "/online/htm/m?ed=2560",
         "headers": {
           "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
         }
@@ -1658,7 +1658,7 @@
       "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
       "transport": {
         "type": "ws",
-        "path": "/pdf?ed=2560",
+        "path": "/dl?ed=2560",
         "headers": {
           "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
         }
@@ -1681,7 +1681,7 @@
       "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
       "transport": {
         "type": "ws",
-        "path": "/series?ed=2560",
+        "path": "/user/docs?ed=2560",
         "headers": {
           "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
         }
@@ -1704,7 +1704,7 @@
       "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
       "transport": {
         "type": "ws",
-        "path": "/seasons?ed=2560",
+        "path": "/work/event?ed=2560",
         "headers": {
           "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
         }
@@ -1727,7 +1727,7 @@
       "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
       "transport": {
         "type": "ws",
-        "path": "/home?ed=2560",
+        "path": "/play/files/ajax?ed=2560",
         "headers": {
           "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
         }
@@ -1750,7 +1750,7 @@
       "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
       "transport": {
         "type": "ws",
-        "path": "/map/resource/downloads?ed=2560",
+        "path": "/user?ed=2560",
         "headers": {
           "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
         }
@@ -1773,7 +1773,7 @@
       "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
       "transport": {
         "type": "ws",
-        "path": "/acg/register?ed=2560",
+        "path": "/channel/links?ed=2560",
         "headers": {
           "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
         }
@@ -1796,7 +1796,7 @@
       "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
       "transport": {
         "type": "ws",
-        "path": "/favourites/web/out?ed=2560",
+        "path": "/about?ed=2560",
         "headers": {
           "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
         }
@@ -1819,7 +1819,7 @@
       "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
       "transport": {
         "type": "ws",
-        "path": "/rank/tags?ed=2560",
+        "path": "/community/friends/archive?ed=2560",
         "headers": {
           "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
         }
