@@ -117,7 +117,1111 @@
       "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
       "transport": {
         "type": "ws",
-        "path": "/settings/work/seller?ed=2560",
+        "path": "/collection?ed=2560",
+        "headers": {
+          "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "سرویس رایگان نوا @irnova_proxy 198.41.243.80:443 [TROJAN]",
+      "server": "198.41.243.80",
+      "server_port": 443,
+      "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
+      "transport": {
+        "type": "ws",
+        "path": "/shows?ed=2560",
+        "headers": {
+          "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "سرویس رایگان نوا @irnova_proxy 188.114.97.136:443 [TROJAN]",
+      "server": "188.114.97.136",
+      "server_port": 443,
+      "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
+      "transport": {
+        "type": "ws",
+        "path": "/china/faq/redirect.php?ed=2560",
+        "headers": {
+          "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "سرویس رایگان نوا @irnova_proxy 188.114.96.194:443 [TROJAN]",
+      "server": "188.114.96.194",
+      "server_port": 443,
+      "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
+      "transport": {
+        "type": "ws",
+        "path": "/detail/blogs/bt?ed=2560",
+        "headers": {
+          "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "سرویس رایگان نوا @irnova_proxy 188.114.97.130:443 [TROJAN]",
+      "server": "188.114.97.130",
+      "server_port": 443,
+      "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
+      "transport": {
+        "type": "ws",
+        "path": "/upload/cart?ed=2560",
+        "headers": {
+          "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "سرویس رایگان نوا @irnova_proxy 172.65.101.244:443 [TROJAN]",
+      "server": "172.65.101.244",
+      "server_port": 443,
+      "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
+      "transport": {
+        "type": "ws",
+        "path": "/stars?ed=2560",
+        "headers": {
+          "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "سرویس رایگان نوا @irnova_proxy 104.27.198.227:443 [TROJAN]",
+      "server": "104.27.198.227",
+      "server_port": 443,
+      "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
+      "transport": {
+        "type": "ws",
+        "path": "/film?ed=2560",
+        "headers": {
+          "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "سرویس رایگان نوا @irnova_proxy 172.67.160.2:443 [TROJAN]",
+      "server": "172.67.160.2",
+      "server_port": 443,
+      "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
+      "transport": {
+        "type": "ws",
+        "path": "/my/news/zip?ed=2560",
+        "headers": {
+          "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "سرویس رایگان نوا @irnova_proxy 141.101.120.180:443 [TROJAN]",
+      "server": "141.101.120.180",
+      "server_port": 443,
+      "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
+      "transport": {
+        "type": "ws",
+        "path": "/sale/settings/picture?ed=2560",
+        "headers": {
+          "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "سرویس رایگان نوا @irnova_proxy 104.25.13.255:443 [TROJAN]",
+      "server": "104.25.13.255",
+      "server_port": 443,
+      "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
+      "transport": {
+        "type": "ws",
+        "path": "/user?ed=2560",
+        "headers": {
+          "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "سرویس رایگان نوا @irnova_proxy 104.21.3.54:443 [TROJAN]",
+      "server": "104.21.3.54",
+      "server_port": 443,
+      "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
+      "transport": {
+        "type": "ws",
+        "path": "/users?ed=2560",
+        "headers": {
+          "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "سرویس رایگان نوا @irnova_proxy 198.41.209.56:443 [TROJAN]",
+      "server": "198.41.209.56",
+      "server_port": 443,
+      "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
+      "transport": {
+        "type": "ws",
+        "path": "/services/bd?ed=2560",
+        "headers": {
+          "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "سرویس رایگان نوا @irnova_proxy 108.162.198.199:443 [TROJAN]",
+      "server": "108.162.198.199",
+      "server_port": 443,
+      "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
+      "transport": {
+        "type": "ws",
+        "path": "/club?ed=2560",
+        "headers": {
+          "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "سرویس رایگان نوا @irnova_proxy 104.25.156.85:443 [TROJAN]",
+      "server": "104.25.156.85",
+      "server_port": 443,
+      "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
+      "transport": {
+        "type": "ws",
+        "path": "/app?ed=2560",
+        "headers": {
+          "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "سرویس رایگان نوا @irnova_proxy 104.17.28.216:443 [TROJAN]",
+      "server": "104.17.28.216",
+      "server_port": 443,
+      "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
+      "transport": {
+        "type": "ws",
+        "path": "/team?ed=2560",
+        "headers": {
+          "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "سرویس رایگان نوا @irnova_proxy 104.17.155.245:443 [TROJAN]",
+      "server": "104.17.155.245",
+      "server_port": 443,
+      "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
+      "transport": {
+        "type": "ws",
+        "path": "/new/knowledge/streams?ed=2560",
+        "headers": {
+          "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "سرویس رایگان نوا @irnova_proxy 104.27.12.47:443 [TROJAN]",
+      "server": "104.27.12.47",
+      "server_port": 443,
+      "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
+      "transport": {
+        "type": "ws",
+        "path": "/class/china/thread?ed=2560",
+        "headers": {
+          "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "سرویس رایگان نوا @irnova_proxy 104.18.46.151:443 [TROJAN]",
+      "server": "104.18.46.151",
+      "server_port": 443,
+      "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
+      "transport": {
+        "type": "ws",
+        "path": "/topic?ed=2560",
+        "headers": {
+          "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "سرویس رایگان نوا @irnova_proxy 104.21.41.12:443 [TROJAN]",
+      "server": "104.21.41.12",
+      "server_port": 443,
+      "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
+      "transport": {
+        "type": "ws",
+        "path": "/ads?ed=2560",
+        "headers": {
+          "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "سرویس رایگان نوا @irnova_proxy 104.27.36.58:443 [TROJAN]",
+      "server": "104.27.36.58",
+      "server_port": 443,
+      "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
+      "transport": {
+        "type": "ws",
+        "path": "/game?ed=2560",
+        "headers": {
+          "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "سرویس رایگان نوا @irnova_proxy 190.93.244.243:443 [TROJAN]",
+      "server": "190.93.244.243",
+      "server_port": 443,
+      "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
+      "transport": {
+        "type": "ws",
+        "path": "/hot/go.php/info?ed=2560",
+        "headers": {
+          "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "سرویس رایگان نوا @irnova_proxy 104.18.64.145:443 [TROJAN]",
+      "server": "104.18.64.145",
+      "server_port": 443,
+      "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
+      "transport": {
+        "type": "ws",
+        "path": "/page/cart/edu?ed=2560",
+        "headers": {
+          "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "سرویس رایگان نوا @irnova_proxy 104.18.14.196:443 [TROJAN]",
+      "server": "104.18.14.196",
+      "server_port": 443,
+      "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
+      "transport": {
+        "type": "ws",
+        "path": "/star?ed=2560",
+        "headers": {
+          "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "سرویس رایگان نوا @irnova_proxy 104.25.237.132:443 [TROJAN]",
+      "server": "104.25.237.132",
+      "server_port": 443,
+      "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
+      "transport": {
+        "type": "ws",
+        "path": "/new?ed=2560",
+        "headers": {
+          "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "سرویس رایگان نوا @irnova_proxy 104.17.0.23:443 [TROJAN]",
+      "server": "104.17.0.23",
+      "server_port": 443,
+      "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
+      "transport": {
+        "type": "ws",
+        "path": "/albums?ed=2560",
+        "headers": {
+          "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "سرویس رایگان نوا @irnova_proxy 104.27.205.191:443 [TROJAN]",
+      "server": "104.27.205.191",
+      "server_port": 443,
+      "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
+      "transport": {
+        "type": "ws",
+        "path": "/sale?ed=2560",
+        "headers": {
+          "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "سرویس رایگان نوا @irnova_proxy 141.101.114.77:443 [TROJAN]",
+      "server": "141.101.114.77",
+      "server_port": 443,
+      "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
+      "transport": {
+        "type": "ws",
+        "path": "/collection/china/channel?ed=2560",
+        "headers": {
+          "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "سرویس رایگان نوا @irnova_proxy 162.159.138.162:443 [TROJAN]",
+      "server": "162.159.138.162",
+      "server_port": 443,
+      "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
+      "transport": {
+        "type": "ws",
+        "path": "/detail/lang?ed=2560",
+        "headers": {
+          "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "سرویس رایگان نوا @irnova_proxy 104.25.251.207:443 [TROJAN]",
+      "server": "104.25.251.207",
+      "server_port": 443,
+      "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
+      "transport": {
+        "type": "ws",
+        "path": "/settings/seller/post?ed=2560",
+        "headers": {
+          "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "سرویس رایگان نوا @irnova_proxy 104.24.234.25:443 [TROJAN]",
+      "server": "104.24.234.25",
+      "server_port": 443,
+      "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
+      "transport": {
+        "type": "ws",
+        "path": "/seasons/docs?ed=2560",
+        "headers": {
+          "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "سرویس رایگان نوا @irnova_proxy 198.41.216.255:443 [TROJAN]",
+      "server": "198.41.216.255",
+      "server_port": 443,
+      "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
+      "transport": {
+        "type": "ws",
+        "path": "/doc/clip?ed=2560",
+        "headers": {
+          "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "سرویس رایگان نوا @irnova_proxy 104.25.46.118:443 [TROJAN]",
+      "server": "104.25.46.118",
+      "server_port": 443,
+      "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
+      "transport": {
+        "type": "ws",
+        "path": "/online?ed=2560",
+        "headers": {
+          "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "سرویس رایگان نوا @irnova_proxy 104.21.94.21:443 [TROJAN]",
+      "server": "104.21.94.21",
+      "server_port": 443,
+      "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
+      "transport": {
+        "type": "ws",
+        "path": "/cart?ed=2560",
+        "headers": {
+          "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "سرویس رایگان نوا @irnova_proxy 104.16.223.79:443 [TROJAN]",
+      "server": "104.16.223.79",
+      "server_port": 443,
+      "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
+      "transport": {
+        "type": "ws",
+        "path": "/jump.html/zh-cn/readme?ed=2560",
+        "headers": {
+          "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "سرویس رایگان نوا @irnova_proxy 190.93.244.57:443 [TROJAN]",
+      "server": "190.93.244.57",
+      "server_port": 443,
+      "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
+      "transport": {
+        "type": "ws",
+        "path": "/intro?ed=2560",
+        "headers": {
+          "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "سرویس رایگان نوا @irnova_proxy 198.41.194.15:443 [TROJAN]",
+      "server": "198.41.194.15",
+      "server_port": 443,
+      "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
+      "transport": {
+        "type": "ws",
+        "path": "/user/images?ed=2560",
+        "headers": {
+          "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "سرویس رایگان نوا @irnova_proxy 104.25.129.252:443 [TROJAN]",
+      "server": "104.25.129.252",
+      "server_port": 443,
+      "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
+      "transport": {
+        "type": "ws",
+        "path": "/services?ed=2560",
+        "headers": {
+          "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "سرویس رایگان نوا @irnova_proxy 104.19.47.190:443 [TROJAN]",
+      "server": "104.19.47.190",
+      "server_port": 443,
+      "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
+      "transport": {
+        "type": "ws",
+        "path": "/messages/pictures/avatar?ed=2560",
+        "headers": {
+          "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "سرویس رایگان نوا @irnova_proxy 104.24.181.197:443 [TROJAN]",
+      "server": "104.24.181.197",
+      "server_port": 443,
+      "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
+      "transport": {
+        "type": "ws",
+        "path": "/reg/downloads?ed=2560",
+        "headers": {
+          "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "سرویس رایگان نوا @irnova_proxy 104.21.193.134:443 [TROJAN]",
+      "server": "104.21.193.134",
+      "server_port": 443,
+      "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
+      "transport": {
+        "type": "ws",
+        "path": "/episodes/view/seller?ed=2560",
+        "headers": {
+          "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "سرویس رایگان نوا @irnova_proxy 108.162.195.41:443 [TROJAN]",
+      "server": "108.162.195.41",
+      "server_port": 443,
+      "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
+      "transport": {
+        "type": "ws",
+        "path": "/home?ed=2560",
+        "headers": {
+          "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "سرویس رایگان نوا @irnova_proxy 104.27.115.55:443 [TROJAN]",
+      "server": "104.27.115.55",
+      "server_port": 443,
+      "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
+      "transport": {
+        "type": "ws",
+        "path": "/lesson/links?ed=2560",
+        "headers": {
+          "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "سرویس رایگان نوا @irnova_proxy 104.18.203.215:443 [TROJAN]",
+      "server": "104.18.203.215",
+      "server_port": 443,
+      "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
+      "transport": {
+        "type": "ws",
+        "path": "/upload/type?ed=2560",
+        "headers": {
+          "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "سرویس رایگان نوا @irnova_proxy 104.21.69.132:443 [TROJAN]",
+      "server": "104.21.69.132",
+      "server_port": 443,
+      "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
+      "transport": {
+        "type": "ws",
+        "path": "/news/urls/drama?ed=2560",
+        "headers": {
+          "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "سرویس رایگان نوا @irnova_proxy 104.24.179.238:443 [TROJAN]",
+      "server": "104.24.179.238",
+      "server_port": 443,
+      "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
+      "transport": {
+        "type": "ws",
+        "path": "/html/list?ed=2560",
+        "headers": {
+          "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "سرویس رایگان نوا @irnova_proxy 104.18.178.249:443 [TROJAN]",
+      "server": "104.18.178.249",
+      "server_port": 443,
+      "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
+      "transport": {
+        "type": "ws",
+        "path": "/topics?ed=2560",
+        "headers": {
+          "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "سرویس رایگان نوا @irnova_proxy 104.19.20.252:443 [TROJAN]",
+      "server": "104.19.20.252",
+      "server_port": 443,
+      "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
+      "transport": {
+        "type": "ws",
+        "path": "/magnet/api?ed=2560",
+        "headers": {
+          "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "سرویس رایگان نوا @irnova_proxy 104.27.35.226:443 [TROJAN]",
+      "server": "104.27.35.226",
+      "server_port": 443,
+      "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
+      "transport": {
+        "type": "ws",
+        "path": "/sale/discount?ed=2560",
+        "headers": {
+          "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "سرویس رایگان نوا @irnova_proxy 104.25.95.202:443 [TROJAN]",
+      "server": "104.25.95.202",
+      "server_port": 443,
+      "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
+      "transport": {
+        "type": "ws",
+        "path": "/episode/page?ed=2560",
         "headers": {
           "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
         }
@@ -140,7 +1244,7 @@
       "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
       "transport": {
         "type": "ws",
-        "path": "/china/community?ed=2560",
+        "path": "/pics/auth?ed=2560",
         "headers": {
           "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
         }
@@ -163,7 +1267,7 @@
       "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
       "transport": {
         "type": "ws",
-        "path": "/tools/lesson?ed=2560",
+        "path": "/help/clip?ed=2560",
         "headers": {
           "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
         }
@@ -186,7 +1290,7 @@
       "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
       "transport": {
         "type": "ws",
-        "path": "/groups/seller?ed=2560",
+        "path": "/student?ed=2560",
         "headers": {
           "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
         }
@@ -209,7 +1313,7 @@
       "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
       "transport": {
         "type": "ws",
-        "path": "/home/student?ed=2560",
+        "path": "/ranking?ed=2560",
         "headers": {
           "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
         }
@@ -232,7 +1336,7 @@
       "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
       "transport": {
         "type": "ws",
-        "path": "/favs/app?ed=2560",
+        "path": "/downloads?ed=2560",
         "headers": {
           "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
         }
@@ -255,7 +1359,7 @@
       "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
       "transport": {
         "type": "ws",
-        "path": "/sale?ed=2560",
+        "path": "/edu/site/jump.html?ed=2560",
         "headers": {
           "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
         }
@@ -278,7 +1382,7 @@
       "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
       "transport": {
         "type": "ws",
-        "path": "/album?ed=2560",
+        "path": "/seasons/ad/doc?ed=2560",
         "headers": {
           "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
         }
@@ -301,7 +1405,7 @@
       "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
       "transport": {
         "type": "ws",
-        "path": "/programs?ed=2560",
+        "path": "/u?ed=2560",
         "headers": {
           "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
         }
@@ -324,7 +1428,7 @@
       "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
       "transport": {
         "type": "ws",
-        "path": "/message/detail/lang?ed=2560",
+        "path": "/out/code?ed=2560",
         "headers": {
           "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
         }
@@ -347,7 +1451,7 @@
       "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
       "transport": {
         "type": "ws",
-        "path": "/community/favorite/anime?ed=2560",
+        "path": "/go.php/star/friends?ed=2560",
         "headers": {
           "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
         }
@@ -370,7 +1474,7 @@
       "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
       "transport": {
         "type": "ws",
-        "path": "/albums/cart?ed=2560",
+        "path": "/users/doc/china?ed=2560",
         "headers": {
           "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
         }
@@ -393,7 +1497,7 @@
       "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
       "transport": {
         "type": "ws",
-        "path": "/series/tools?ed=2560",
+        "path": "/trade/lesson?ed=2560",
         "headers": {
           "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
         }
@@ -416,7 +1520,7 @@
       "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
       "transport": {
         "type": "ws",
-        "path": "/version/channel/wenku?ed=2560",
+        "path": "/documents/topic/movies?ed=2560",
         "headers": {
           "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
         }
@@ -439,7 +1543,7 @@
       "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
       "transport": {
         "type": "ws",
-        "path": "/documents/read/jump.html?ed=2560",
+        "path": "/page/outbound?ed=2560",
         "headers": {
           "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
         }
@@ -462,7 +1566,7 @@
       "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
       "transport": {
         "type": "ws",
-        "path": "/albums/programs/playlist?ed=2560",
+        "path": "/mall?ed=2560",
         "headers": {
           "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
         }
@@ -485,7 +1589,7 @@
       "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
       "transport": {
         "type": "ws",
-        "path": "/drama?ed=2560",
+        "path": "/season/url/film?ed=2560",
         "headers": {
           "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
         }
@@ -508,7 +1612,7 @@
       "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
       "transport": {
         "type": "ws",
-        "path": "/f/group?ed=2560",
+        "path": "/account?ed=2560",
         "headers": {
           "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
         }
@@ -531,7 +1635,7 @@
       "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
       "transport": {
         "type": "ws",
-        "path": "/acg/show/data?ed=2560",
+        "path": "/doujin/question?ed=2560",
         "headers": {
           "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
         }
@@ -554,7 +1658,7 @@
       "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
       "transport": {
         "type": "ws",
-        "path": "/site/about/topic?ed=2560",
+        "path": "/go.php?ed=2560",
         "headers": {
           "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
         }
@@ -577,7 +1681,7 @@
       "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
       "transport": {
         "type": "ws",
-        "path": "/f?ed=2560",
+        "path": "/retrieve/study/channel?ed=2560",
         "headers": {
           "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
         }
@@ -600,7 +1704,7 @@
       "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
       "transport": {
         "type": "ws",
-        "path": "/about/content/collect?ed=2560",
+        "path": "/page/comics?ed=2560",
         "headers": {
           "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
         }
@@ -623,7 +1727,7 @@
       "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
       "transport": {
         "type": "ws",
-        "path": "/note/order/travel?ed=2560",
+        "path": "/forums?ed=2560",
         "headers": {
           "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
         }
@@ -646,7 +1750,7 @@
       "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
       "transport": {
         "type": "ws",
-        "path": "/article?ed=2560",
+        "path": "/game?ed=2560",
         "headers": {
           "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
         }
@@ -669,7 +1773,7 @@
       "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
       "transport": {
         "type": "ws",
-        "path": "/intro?ed=2560",
+        "path": "/topics/out.html/member?ed=2560",
         "headers": {
           "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
         }
@@ -692,7 +1796,7 @@
       "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
       "transport": {
         "type": "ws",
-        "path": "/special/home/star?ed=2560",
+        "path": "/live?ed=2560",
         "headers": {
           "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
         }
@@ -715,7 +1819,7 @@
       "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
       "transport": {
         "type": "ws",
-        "path": "/view/contact/settings?ed=2560",
+        "path": "/team?ed=2560",
         "headers": {
           "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
         }
@@ -738,7 +1842,7 @@
       "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
       "transport": {
         "type": "ws",
-        "path": "/upload/player/jump.php?ed=2560",
+        "path": "/site/blogs/group?ed=2560",
         "headers": {
           "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
         }
@@ -761,7 +1865,7 @@
       "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
       "transport": {
         "type": "ws",
-        "path": "/picture?ed=2560",
+        "path": "/readme/project/category?ed=2560",
         "headers": {
           "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
         }
@@ -784,7 +1888,7 @@
       "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
       "transport": {
         "type": "ws",
-        "path": "/search?ed=2560",
+        "path": "/file/pdf?ed=2560",
         "headers": {
           "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
         }
@@ -807,7 +1911,7 @@
       "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
       "transport": {
         "type": "ws",
-        "path": "/upload/download/bbs?ed=2560",
+        "path": "/comics?ed=2560",
         "headers": {
           "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
         }
@@ -830,7 +1934,7 @@
       "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
       "transport": {
         "type": "ws",
-        "path": "/zh/clips?ed=2560",
+        "path": "/docs/episode?ed=2560",
         "headers": {
           "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
         }
@@ -853,7 +1957,7 @@
       "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
       "transport": {
         "type": "ws",
-        "path": "/m/dl?ed=2560",
+        "path": "/upload/docs/content?ed=2560",
         "headers": {
           "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
         }
@@ -876,7 +1980,7 @@
       "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
       "transport": {
         "type": "ws",
-        "path": "/url/discuss/info?ed=2560",
+        "path": "/u/collect?ed=2560",
         "headers": {
           "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
         }
@@ -899,7 +2003,7 @@
       "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
       "transport": {
         "type": "ws",
-        "path": "/tv/favorite?ed=2560",
+        "path": "/item/tools/jump.php?ed=2560",
         "headers": {
           "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
         }
@@ -922,7 +2026,7 @@
       "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
       "transport": {
         "type": "ws",
-        "path": "/documents/detail?ed=2560",
+        "path": "/acg/source?ed=2560",
         "headers": {
           "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
         }
@@ -945,7 +2049,7 @@
       "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
       "transport": {
         "type": "ws",
-        "path": "/archives/page/view?ed=2560",
+        "path": "/season?ed=2560",
         "headers": {
           "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
         }
@@ -968,7 +2072,7 @@
       "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
       "transport": {
         "type": "ws",
-        "path": "/streaming/student/episode?ed=2560",
+        "path": "/zh-cn?ed=2560",
         "headers": {
           "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
         }
@@ -991,7 +2095,7 @@
       "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
       "transport": {
         "type": "ws",
-        "path": "/u/out.php/f?ed=2560",
+        "path": "/event?ed=2560",
         "headers": {
           "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
         }
@@ -1014,7 +2118,7 @@
       "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
       "transport": {
         "type": "ws",
-        "path": "/account/acg?ed=2560",
+        "path": "/m/topics/gif?ed=2560",
         "headers": {
           "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
         }
@@ -1037,7 +2141,7 @@
       "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
       "transport": {
         "type": "ws",
-        "path": "/ranking/ajax/dl?ed=2560",
+        "path": "/picture/ad/bt?ed=2560",
         "headers": {
           "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
         }
@@ -1060,7 +2164,7 @@
       "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
       "transport": {
         "type": "ws",
-        "path": "/auth?ed=2560",
+        "path": "/acg?ed=2560",
         "headers": {
           "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
         }
@@ -1083,7 +2187,7 @@
       "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
       "transport": {
         "type": "ws",
-        "path": "/trade/torrent/drama?ed=2560",
+        "path": "/go.php/account?ed=2560",
         "headers": {
           "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
         }
@@ -1106,7 +2210,7 @@
       "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
       "transport": {
         "type": "ws",
-        "path": "/file/shop/friends?ed=2560",
+        "path": "/discuss/temp/download?ed=2560",
         "headers": {
           "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
         }
@@ -1129,7 +2233,7 @@
       "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
       "transport": {
         "type": "ws",
-        "path": "/members?ed=2560",
+        "path": "/mall?ed=2560",
         "headers": {
           "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
         }
@@ -1152,7 +2256,7 @@
       "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
       "transport": {
         "type": "ws",
-        "path": "/program?ed=2560",
+        "path": "/section/drama/anime?ed=2560",
         "headers": {
           "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
         }
@@ -1175,7 +2279,7 @@
       "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
       "transport": {
         "type": "ws",
-        "path": "/cart/play/vod?ed=2560",
+        "path": "/topic/image?ed=2560",
         "headers": {
           "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
         }
@@ -1198,7 +2302,7 @@
       "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
       "transport": {
         "type": "ws",
-        "path": "/posts/lessons/redirect?ed=2560",
+        "path": "/edu/project?ed=2560",
         "headers": {
           "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
         }
@@ -1221,7 +2325,7 @@
       "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
       "transport": {
         "type": "ws",
-        "path": "/act/collect?ed=2560",
+        "path": "/seller/china/channels?ed=2560",
         "headers": {
           "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
         }
@@ -1244,7 +2348,7 @@
       "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
       "transport": {
         "type": "ws",
-        "path": "/out.php/jump.html/download?ed=2560",
+        "path": "/knowledge/product?ed=2560",
         "headers": {
           "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
         }
@@ -1267,7 +2371,7 @@
       "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
       "transport": {
         "type": "ws",
-        "path": "/mobile/forum/photo?ed=2560",
+        "path": "/m/game?ed=2560",
         "headers": {
           "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
         }
@@ -1290,7 +2394,7 @@
       "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
       "transport": {
         "type": "ws",
-        "path": "/zip?ed=2560",
+        "path": "/doc/docs/sale?ed=2560",
         "headers": {
           "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
         }
@@ -1313,7 +2417,7 @@
       "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
       "transport": {
         "type": "ws",
-        "path": "/torrent/intro?ed=2560",
+        "path": "/users?ed=2560",
         "headers": {
           "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
         }
@@ -1336,7 +2440,7 @@
       "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
       "transport": {
         "type": "ws",
-        "path": "/library/upload?ed=2560",
+        "path": "/order/pdf/discuss?ed=2560",
         "headers": {
           "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
         }
@@ -1359,7 +2463,7 @@
       "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
       "transport": {
         "type": "ws",
-        "path": "/topics/clip?ed=2560",
+        "path": "/trade/seller?ed=2560",
         "headers": {
           "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
         }
@@ -1382,7 +2486,7 @@
       "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
       "transport": {
         "type": "ws",
-        "path": "/archives?ed=2560",
+        "path": "/download?ed=2560",
         "headers": {
           "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
         }
@@ -1405,7 +2509,7 @@
       "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
       "transport": {
         "type": "ws",
-        "path": "/gif?ed=2560",
+        "path": "/f/pic?ed=2560",
         "headers": {
           "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
         }
@@ -1428,7 +2532,7 @@
       "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
       "transport": {
         "type": "ws",
-        "path": "/channel/knowledge?ed=2560",
+        "path": "/forums/watch/collect?ed=2560",
         "headers": {
           "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
         }
@@ -1451,7 +2555,7 @@
       "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
       "transport": {
         "type": "ws",
-        "path": "/album/online?ed=2560",
+        "path": "/photos/users?ed=2560",
         "headers": {
           "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
         }
@@ -1474,7 +2578,7 @@
       "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
       "transport": {
         "type": "ws",
-        "path": "/p/doc?ed=2560",
+        "path": "/resource/event?ed=2560",
         "headers": {
           "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
         }
@@ -1497,7 +2601,7 @@
       "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
       "transport": {
         "type": "ws",
-        "path": "/new/en?ed=2560",
+        "path": "/read/favorite/channels?ed=2560",
         "headers": {
           "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
         }
@@ -1520,7 +2624,7 @@
       "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
       "transport": {
         "type": "ws",
-        "path": "/posts/documents/intro?ed=2560",
+        "path": "/read?ed=2560",
         "headers": {
           "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
         }
@@ -1543,7 +2647,7 @@
       "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
       "transport": {
         "type": "ws",
-        "path": "/redirect?ed=2560",
+        "path": "/resource/collect/my?ed=2560",
         "headers": {
           "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
         }
@@ -1566,7 +2670,7 @@
       "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
       "transport": {
         "type": "ws",
-        "path": "/service?ed=2560",
+        "path": "/uploads/bt/map?ed=2560",
         "headers": {
           "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
         }
@@ -1589,7 +2693,7 @@
       "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
       "transport": {
         "type": "ws",
-        "path": "/acg/site?ed=2560",
+        "path": "/u?ed=2560",
         "headers": {
           "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
         }
@@ -1612,7 +2716,7 @@
       "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
       "transport": {
         "type": "ws",
-        "path": "/services/favorite/episode?ed=2560",
+        "path": "/zh?ed=2560",
         "headers": {
           "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
         }
@@ -1635,7 +2739,7 @@
       "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
       "transport": {
         "type": "ws",
-        "path": "/downloads?ed=2560",
+        "path": "/help/v/urls?ed=2560",
         "headers": {
           "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
         }
@@ -1658,7 +2762,7 @@
       "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
       "transport": {
         "type": "ws",
-        "path": "/collect?ed=2560",
+        "path": "/feedback?ed=2560",
         "headers": {
           "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
         }
@@ -1681,7 +2785,7 @@
       "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
       "transport": {
         "type": "ws",
-        "path": "/ja?ed=2560",
+        "path": "/txt/services?ed=2560",
         "headers": {
           "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
         }
@@ -1704,7 +2808,7 @@
       "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
       "transport": {
         "type": "ws",
-        "path": "/dh/picture/my?ed=2560",
+        "path": "/services?ed=2560",
         "headers": {
           "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
         }
@@ -1727,7 +2831,7 @@
       "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
       "transport": {
         "type": "ws",
-        "path": "/m/thread/book?ed=2560",
+        "path": "/uploads/document?ed=2560",
         "headers": {
           "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
         }
@@ -1750,7 +2854,7 @@
       "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
       "transport": {
         "type": "ws",
-        "path": "/trade/doc?ed=2560",
+        "path": "/config/messages/read?ed=2560",
         "headers": {
           "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
         }
@@ -1773,7 +2877,7 @@
       "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
       "transport": {
         "type": "ws",
-        "path": "/pic/go.php?ed=2560",
+        "path": "/about/drama?ed=2560",
         "headers": {
           "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
         }
@@ -1796,7 +2900,7 @@
       "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
       "transport": {
         "type": "ws",
-        "path": "/archive/site/program?ed=2560",
+        "path": "/program/map?ed=2560",
         "headers": {
           "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
         }
@@ -1819,7 +2923,7 @@
       "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
       "transport": {
         "type": "ws",
-        "path": "/about/forums/blog?ed=2560",
+        "path": "/jump/shop?ed=2560",
         "headers": {
           "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
         }
@@ -1842,7 +2946,7 @@
       "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
       "transport": {
         "type": "ws",
-        "path": "/drama/novel/wiki?ed=2560",
+        "path": "/ajax?ed=2560",
         "headers": {
           "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
         }
@@ -1865,7 +2969,7 @@
       "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
       "transport": {
         "type": "ws",
-        "path": "/doc/photos/download?ed=2560",
+        "path": "/item?ed=2560",
         "headers": {
           "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
         }
@@ -1888,7 +2992,7 @@
       "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
       "transport": {
         "type": "ws",
-        "path": "/en?ed=2560",
+        "path": "/settings/doc/pics?ed=2560",
         "headers": {
           "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
         }
@@ -1911,7 +3015,7 @@
       "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
       "transport": {
         "type": "ws",
-        "path": "/image?ed=2560",
+        "path": "/photos?ed=2560",
         "headers": {
           "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
         }
@@ -1934,7 +3038,7 @@
       "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
       "transport": {
         "type": "ws",
-        "path": "/html?ed=2560",
+        "path": "/services/doc?ed=2560",
         "headers": {
           "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
         }
@@ -1957,7 +3061,7 @@
       "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
       "transport": {
         "type": "ws",
-        "path": "/lang/ask/home?ed=2560",
+        "path": "/web/albums?ed=2560",
         "headers": {
           "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
         }
@@ -1980,7 +3084,7 @@
       "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
       "transport": {
         "type": "ws",
-        "path": "/pay?ed=2560",
+        "path": "/order/series/category?ed=2560",
         "headers": {
           "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
         }
@@ -2003,7 +3107,7 @@
       "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
       "transport": {
         "type": "ws",
-        "path": "/p?ed=2560",
+        "path": "/special?ed=2560",
         "headers": {
           "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
         }
@@ -2026,7 +3130,7 @@
       "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
       "transport": {
         "type": "ws",
-        "path": "/topic?ed=2560",
+        "path": "/clip/picture/items?ed=2560",
         "headers": {
           "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
         }
@@ -2049,7 +3153,7 @@
       "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
       "transport": {
         "type": "ws",
-        "path": "/stream/tag/outbound?ed=2560",
+        "path": "/htm/comic?ed=2560",
         "headers": {
           "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
         }
@@ -2072,7 +3176,7 @@
       "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
       "transport": {
         "type": "ws",
-        "path": "/image/blogs?ed=2560",
+        "path": "/club/static/shop?ed=2560",
         "headers": {
           "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
         }
@@ -2095,7 +3199,7 @@
       "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
       "transport": {
         "type": "ws",
-        "path": "/documents/friend/document?ed=2560",
+        "path": "/picture?ed=2560",
         "headers": {
           "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
         }
@@ -2118,7 +3222,7 @@
       "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
       "transport": {
         "type": "ws",
-        "path": "/services?ed=2560",
+        "path": "/student?ed=2560",
         "headers": {
           "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
         }
@@ -2141,7 +3245,7 @@
       "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
       "transport": {
         "type": "ws",
-        "path": "/online/url?ed=2560",
+        "path": "/picture/urls/photos?ed=2560",
         "headers": {
           "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
         }
@@ -2164,7 +3268,7 @@
       "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
       "transport": {
         "type": "ws",
-        "path": "/shows?ed=2560",
+        "path": "/static/pages/payment?ed=2560",
         "headers": {
           "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
         }
@@ -2187,7 +3291,7 @@
       "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
       "transport": {
         "type": "ws",
-        "path": "/services/forums?ed=2560",
+        "path": "/lang/detail/stream?ed=2560",
         "headers": {
           "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
         }
@@ -2210,7 +3314,7 @@
       "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
       "transport": {
         "type": "ws",
-        "path": "/chat/order?ed=2560",
+        "path": "/doc?ed=2560",
         "headers": {
           "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
         }
@@ -2233,7 +3337,7 @@
       "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
       "transport": {
         "type": "ws",
-        "path": "/community?ed=2560",
+        "path": "/message?ed=2560",
         "headers": {
           "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
         }
@@ -2256,7 +3360,7 @@
       "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
       "transport": {
         "type": "ws",
-        "path": "/thread/avatar/files?ed=2560",
+        "path": "/temp/go.php/member?ed=2560",
         "headers": {
           "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
         }
@@ -2279,7 +3383,7 @@
       "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
       "transport": {
         "type": "ws",
-        "path": "/project?ed=2560",
+        "path": "/sort/zh-tw/setting?ed=2560",
         "headers": {
           "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
         }
@@ -2302,7 +3406,7 @@
       "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
       "transport": {
         "type": "ws",
-        "path": "/apps/games/lessons?ed=2560",
+        "path": "/stream/favorite?ed=2560",
         "headers": {
           "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
         }
@@ -2325,7 +3429,7 @@
       "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
       "transport": {
         "type": "ws",
-        "path": "/document?ed=2560",
+        "path": "/acg/novel/movie?ed=2560",
         "headers": {
           "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
         }
@@ -2348,7 +3452,7 @@
       "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
       "transport": {
         "type": "ws",
-        "path": "/cn/new/events?ed=2560",
+        "path": "/jumping/auth?ed=2560",
         "headers": {
           "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
         }
@@ -2371,7 +3475,7 @@
       "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
       "transport": {
         "type": "ws",
-        "path": "/project/image?ed=2560",
+        "path": "/go.php/note?ed=2560",
         "headers": {
           "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
         }
@@ -2394,7 +3498,7 @@
       "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
       "transport": {
         "type": "ws",
-        "path": "/new?ed=2560",
+        "path": "/clip?ed=2560",
         "headers": {
           "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
         }
@@ -2417,7 +3521,7 @@
       "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
       "transport": {
         "type": "ws",
-        "path": "/shows?ed=2560",
+        "path": "/img/read?ed=2560",
         "headers": {
           "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
         }
@@ -2440,7 +3544,7 @@
       "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
       "transport": {
         "type": "ws",
-        "path": "/messages?ed=2560",
+        "path": "/redirect.php/readme/photo?ed=2560",
         "headers": {
           "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
         }
@@ -2463,7 +3567,7 @@
       "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
       "transport": {
         "type": "ws",
-        "path": "/item/redirect.html?ed=2560",
+        "path": "/out.php?ed=2560",
         "headers": {
           "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
         }
@@ -2486,7 +3590,7 @@
       "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
       "transport": {
         "type": "ws",
-        "path": "/doc?ed=2560",
+        "path": "/archives/mag?ed=2560",
         "headers": {
           "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
         }
@@ -2509,7 +3613,7 @@
       "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
       "transport": {
         "type": "ws",
-        "path": "/account/item?ed=2560",
+        "path": "/photos?ed=2560",
         "headers": {
           "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
         }
@@ -2532,7 +3636,7 @@
       "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
       "transport": {
         "type": "ws",
-        "path": "/music/channel/channels?ed=2560",
+        "path": "/directory?ed=2560",
         "headers": {
           "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
         }
@@ -2555,7 +3659,7 @@
       "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
       "transport": {
         "type": "ws",
-        "path": "/out.php/clips/www?ed=2560",
+        "path": "/trade/playlist?ed=2560",
         "headers": {
           "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
         }
@@ -2578,7 +3682,7 @@
       "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
       "transport": {
         "type": "ws",
-        "path": "/go.php?ed=2560",
+        "path": "/qa?ed=2560",
         "headers": {
           "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
         }
@@ -2601,7 +3705,7 @@
       "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
       "transport": {
         "type": "ws",
-        "path": "/cp/pay?ed=2560",
+        "path": "/collection/episodes?ed=2560",
         "headers": {
           "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
         }
@@ -2624,7 +3728,7 @@
       "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
       "transport": {
         "type": "ws",
-        "path": "/details?ed=2560",
+        "path": "/lib/seller?ed=2560",
         "headers": {
           "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
         }
@@ -2647,7 +3751,7 @@
       "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
       "transport": {
         "type": "ws",
-        "path": "/discount?ed=2560",
+        "path": "/acg/activity?ed=2560",
         "headers": {
           "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
         }
@@ -2670,7 +3774,7 @@
       "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
       "transport": {
         "type": "ws",
-        "path": "/discount?ed=2560",
+        "path": "/dload/vod/settings?ed=2560",
         "headers": {
           "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
         }
@@ -2693,7 +3797,7 @@
       "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
       "transport": {
         "type": "ws",
-        "path": "/cp/setting?ed=2560",
+        "path": "/product?ed=2560",
         "headers": {
           "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
         }
@@ -2716,7 +3820,7 @@
       "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
       "transport": {
         "type": "ws",
-        "path": "/user/channel?ed=2560",
+        "path": "/channel?ed=2560",
         "headers": {
           "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
         }
@@ -2739,7 +3843,7 @@
       "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
       "transport": {
         "type": "ws",
-        "path": "/event?ed=2560",
+        "path": "/category/jump.php/vod?ed=2560",
         "headers": {
           "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
         }
@@ -2762,7 +3866,7 @@
       "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
       "transport": {
         "type": "ws",
-        "path": "/movies/topic/ep?ed=2560",
+        "path": "/thread/zh-tw?ed=2560",
         "headers": {
           "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
         }
@@ -2785,7 +3889,7 @@
       "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
       "transport": {
         "type": "ws",
-        "path": "/detail/watch/game?ed=2560",
+        "path": "/images?ed=2560",
         "headers": {
           "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
         }
@@ -2808,7 +3912,7 @@
       "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
       "transport": {
         "type": "ws",
-        "path": "/special?ed=2560",
+        "path": "/news/out.html?ed=2560",
         "headers": {
           "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
         }
@@ -2831,7 +3935,7 @@
       "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
       "transport": {
         "type": "ws",
-        "path": "/go?ed=2560",
+        "path": "/city/ep/project?ed=2560",
         "headers": {
           "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
         }
@@ -2854,7 +3958,7 @@
       "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
       "transport": {
         "type": "ws",
-        "path": "/intro/study?ed=2560",
+        "path": "/static/pictures/picture?ed=2560",
         "headers": {
           "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
         }
@@ -2877,7 +3981,7 @@
       "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
       "transport": {
         "type": "ws",
-        "path": "/tags?ed=2560",
+        "path": "/article?ed=2560",
         "headers": {
           "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
         }
@@ -2900,7 +4004,7 @@
       "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
       "transport": {
         "type": "ws",
-        "path": "/books/playlist?ed=2560",
+        "path": "/book?ed=2560",
         "headers": {
           "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
         }
@@ -2923,7 +4027,7 @@
       "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
       "transport": {
         "type": "ws",
-        "path": "/ads/apps?ed=2560",
+        "path": "/seller?ed=2560",
         "headers": {
           "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
         }
@@ -2946,7 +4050,7 @@
       "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
       "transport": {
         "type": "ws",
-        "path": "/site/categories/mall?ed=2560",
+        "path": "/map/docs?ed=2560",
         "headers": {
           "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
         }
@@ -2969,7 +4073,7 @@
       "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
       "transport": {
         "type": "ws",
-        "path": "/order/tools/jump.html?ed=2560",
+        "path": "/manhua?ed=2560",
         "headers": {
           "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
         }
@@ -2992,7 +4096,7 @@
       "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
       "transport": {
         "type": "ws",
-        "path": "/book/product?ed=2560",
+        "path": "/act/htm?ed=2560",
         "headers": {
           "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
         }
@@ -3015,7 +4119,7 @@
       "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
       "transport": {
         "type": "ws",
-        "path": "/new/sale?ed=2560",
+        "path": "/season?ed=2560",
         "headers": {
           "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
         }
@@ -3038,7 +4142,7 @@
       "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
       "transport": {
         "type": "ws",
-        "path": "/member/tech?ed=2560",
+        "path": "/tool/photos?ed=2560",
         "headers": {
           "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
         }
@@ -3061,7 +4165,7 @@
       "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
       "transport": {
         "type": "ws",
-        "path": "/sort/sale/streams?ed=2560",
+        "path": "/auth/jump.html/ajax?ed=2560",
         "headers": {
           "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
         }
@@ -3084,7 +4188,7 @@
       "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
       "transport": {
         "type": "ws",
-        "path": "/special?ed=2560",
+        "path": "/qa?ed=2560",
         "headers": {
           "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
         }
@@ -3107,7 +4211,7 @@
       "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
       "transport": {
         "type": "ws",
-        "path": "/photos?ed=2560",
+        "path": "/dload/vip?ed=2560",
         "headers": {
           "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
         }
@@ -3130,7 +4234,7 @@
       "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
       "transport": {
         "type": "ws",
-        "path": "/sale/pages/news?ed=2560",
+        "path": "/doujin?ed=2560",
         "headers": {
           "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
         }
@@ -3153,7 +4257,7 @@
       "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
       "transport": {
         "type": "ws",
-        "path": "/clips/activity/edu?ed=2560",
+        "path": "/note?ed=2560",
         "headers": {
           "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
         }
@@ -3176,7 +4280,7 @@
       "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
       "transport": {
         "type": "ws",
-        "path": "/doc?ed=2560",
+        "path": "/tool?ed=2560",
         "headers": {
           "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
         }
@@ -3199,7 +4303,7 @@
       "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
       "transport": {
         "type": "ws",
-        "path": "/register/version?ed=2560",
+        "path": "/thread/chat/directory?ed=2560",
         "headers": {
           "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
         }
@@ -3222,7 +4326,7 @@
       "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
       "transport": {
         "type": "ws",
-        "path": "/archives?ed=2560",
+        "path": "/ask/map?ed=2560",
         "headers": {
           "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
         }
@@ -3245,7 +4349,7 @@
       "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
       "transport": {
         "type": "ws",
-        "path": "/star?ed=2560",
+        "path": "/thread/topics/resource?ed=2560",
         "headers": {
           "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
         }
@@ -3268,7 +4372,7 @@
       "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
       "transport": {
         "type": "ws",
-        "path": "/out.php?ed=2560",
+        "path": "/travel/friends?ed=2560",
         "headers": {
           "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
         }
@@ -3291,7 +4395,7 @@
       "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
       "transport": {
         "type": "ws",
-        "path": "/online/archive?ed=2560",
+        "path": "/order/ad?ed=2560",
         "headers": {
           "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
         }
@@ -3314,7 +4418,7 @@
       "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
       "transport": {
         "type": "ws",
-        "path": "/tool/cn?ed=2560",
+        "path": "/classify/type?ed=2560",
         "headers": {
           "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
         }
@@ -3337,7 +4441,7 @@
       "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
       "transport": {
         "type": "ws",
-        "path": "/pic/project/magnet?ed=2560",
+        "path": "/ep/clips?ed=2560",
         "headers": {
           "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
         }
@@ -3360,7 +4464,7 @@
       "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
       "transport": {
         "type": "ws",
-        "path": "/pages/settings?ed=2560",
+        "path": "/forums/pics?ed=2560",
         "headers": {
           "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
         }
@@ -3383,7 +4487,7 @@
       "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
       "transport": {
         "type": "ws",
-        "path": "/anime?ed=2560",
+        "path": "/m/jump/doc?ed=2560",
         "headers": {
           "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
         }
@@ -3406,7 +4510,7 @@
       "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
       "transport": {
         "type": "ws",
-        "path": "/events/films/forum?ed=2560",
+        "path": "/knowledge?ed=2560",
         "headers": {
           "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
         }
@@ -3429,7 +4533,7 @@
       "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
       "transport": {
         "type": "ws",
-        "path": "/playlist/url/cb?ed=2560",
+        "path": "/content/link?ed=2560",
         "headers": {
           "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
         }
@@ -3452,7 +4556,7 @@
       "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
       "transport": {
         "type": "ws",
-        "path": "/category/map/uploads?ed=2560",
+        "path": "/collect?ed=2560",
         "headers": {
           "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
         }
@@ -3475,7 +4579,7 @@
       "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
       "transport": {
         "type": "ws",
-        "path": "/pictures/category/help?ed=2560",
+        "path": "/u/qa/group?ed=2560",
         "headers": {
           "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
         }
@@ -3498,7 +4602,7 @@
       "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
       "transport": {
         "type": "ws",
-        "path": "/club/pdf/classify?ed=2560",
+        "path": "/document?ed=2560",
         "headers": {
           "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
         }
@@ -3521,7 +4625,7 @@
       "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
       "transport": {
         "type": "ws",
-        "path": "/play/member/dl?ed=2560",
+        "path": "/documents/go.php/qa?ed=2560",
         "headers": {
           "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
         }
@@ -3544,7 +4648,7 @@
       "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
       "transport": {
         "type": "ws",
-        "path": "/vod?ed=2560",
+        "path": "/course/tools/wenku?ed=2560",
         "headers": {
           "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
         }
@@ -3567,7 +4671,7 @@
       "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
       "transport": {
         "type": "ws",
-        "path": "/soft/act/html?ed=2560",
+        "path": "/pay?ed=2560",
         "headers": {
           "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
         }
@@ -3590,7 +4694,7 @@
       "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
       "transport": {
         "type": "ws",
-        "path": "/novels?ed=2560",
+        "path": "/url/category?ed=2560",
         "headers": {
           "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
         }
@@ -3613,7 +4717,7 @@
       "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
       "transport": {
         "type": "ws",
-        "path": "/albums/team?ed=2560",
+        "path": "/programs/file?ed=2560",
         "headers": {
           "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
         }
@@ -3636,7 +4740,7 @@
       "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
       "transport": {
         "type": "ws",
-        "path": "/community?ed=2560",
+        "path": "/m?ed=2560",
         "headers": {
           "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
         }
@@ -3659,7 +4763,7 @@
       "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
       "transport": {
         "type": "ws",
-        "path": "/torrent/app?ed=2560",
+        "path": "/version?ed=2560",
         "headers": {
           "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
         }
@@ -3682,7 +4786,7 @@
       "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
       "transport": {
         "type": "ws",
-        "path": "/posts?ed=2560",
+        "path": "/home/resource/picture?ed=2560",
         "headers": {
           "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
         }
@@ -3705,7 +4809,7 @@
       "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
       "transport": {
         "type": "ws",
-        "path": "/docs/tags/home?ed=2560",
+        "path": "/members?ed=2560",
         "headers": {
           "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
         }
@@ -3728,7 +4832,7 @@
       "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
       "transport": {
         "type": "ws",
-        "path": "/clips/archives?ed=2560",
+        "path": "/urls/image?ed=2560",
         "headers": {
           "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
         }
@@ -3751,7 +4855,7 @@
       "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
       "transport": {
         "type": "ws",
-        "path": "/tools/page/api?ed=2560",
+        "path": "/htm/web?ed=2560",
         "headers": {
           "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
         }
@@ -3774,7 +4878,7 @@
       "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
       "transport": {
         "type": "ws",
-        "path": "/list/classify?ed=2560",
+        "path": "/comic/read?ed=2560",
         "headers": {
           "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
         }
@@ -3797,7 +4901,7 @@
       "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
       "transport": {
         "type": "ws",
-        "path": "/teacher/company?ed=2560",
+        "path": "/account/zip?ed=2560",
         "headers": {
           "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
         }
@@ -3820,7 +4924,7 @@
       "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
       "transport": {
         "type": "ws",
-        "path": "/image/cn?ed=2560",
+        "path": "/zh-cn/stock?ed=2560",
         "headers": {
           "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
         }
@@ -3843,7 +4947,7 @@
       "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
       "transport": {
         "type": "ws",
-        "path": "/collect/club?ed=2560",
+        "path": "/bt/new/app?ed=2560",
         "headers": {
           "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
         }
@@ -3866,7 +4970,7 @@
       "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
       "transport": {
         "type": "ws",
-        "path": "/article/shop?ed=2560",
+        "path": "/service/ja/archive?ed=2560",
         "headers": {
           "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
         }
@@ -3889,7 +4993,7 @@
       "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
       "transport": {
         "type": "ws",
-        "path": "/app/settings/zh-cn?ed=2560",
+        "path": "/channel?ed=2560",
         "headers": {
           "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
         }
@@ -3912,7 +5016,7 @@
       "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
       "transport": {
         "type": "ws",
-        "path": "/payment/channels?ed=2560",
+        "path": "/clips/static/outbound?ed=2560",
         "headers": {
           "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
         }
@@ -3935,7 +5039,7 @@
       "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
       "transport": {
         "type": "ws",
-        "path": "/html/mag/topic?ed=2560",
+        "path": "/blog/ask/directory?ed=2560",
         "headers": {
           "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
         }
@@ -3958,7 +5062,7 @@
       "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
       "transport": {
         "type": "ws",
-        "path": "/music/edu/cb?ed=2560",
+        "path": "/films/tv?ed=2560",
         "headers": {
           "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
         }
@@ -3981,7 +5085,7 @@
       "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
       "transport": {
         "type": "ws",
-        "path": "/my?ed=2560",
+        "path": "/version?ed=2560",
         "headers": {
           "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
         }
@@ -4004,7 +5108,7 @@
       "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
       "transport": {
         "type": "ws",
-        "path": "/episodes/collect/about?ed=2560",
+        "path": "/upload?ed=2560",
         "headers": {
           "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
         }
@@ -4027,7 +5131,7 @@
       "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
       "transport": {
         "type": "ws",
-        "path": "/search/settings?ed=2560",
+        "path": "/clips?ed=2560",
         "headers": {
           "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
         }
@@ -4050,7 +5154,7 @@
       "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
       "transport": {
         "type": "ws",
-        "path": "/ad/thread/article?ed=2560",
+        "path": "/acg?ed=2560",
         "headers": {
           "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
         }
@@ -4073,7 +5177,7 @@
       "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
       "transport": {
         "type": "ws",
-        "path": "/acg?ed=2560",
+        "path": "/faq/program?ed=2560",
         "headers": {
           "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
         }
@@ -4096,7 +5200,7 @@
       "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
       "transport": {
         "type": "ws",
-        "path": "/test/redirect.html/out.html?ed=2560",
+        "path": "/page/music/member?ed=2560",
         "headers": {
           "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
         }
@@ -4119,7 +5223,7 @@
       "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
       "transport": {
         "type": "ws",
-        "path": "/act/photos?ed=2560",
+        "path": "/doc?ed=2560",
         "headers": {
           "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
         }
@@ -4142,7 +5246,7 @@
       "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
       "transport": {
         "type": "ws",
-        "path": "/feedback?ed=2560",
+        "path": "/news/item?ed=2560",
         "headers": {
           "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
         }
@@ -4165,7 +5269,7 @@
       "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
       "transport": {
         "type": "ws",
-        "path": "/go.php/readme/setting?ed=2560",
+        "path": "/game?ed=2560",
         "headers": {
           "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
         }
@@ -4188,7 +5292,7 @@
       "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
       "transport": {
         "type": "ws",
-        "path": "/seller?ed=2560",
+        "path": "/travel/anime?ed=2560",
         "headers": {
           "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
         }
@@ -4211,7 +5315,7 @@
       "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
       "transport": {
         "type": "ws",
-        "path": "/dh/cart/en?ed=2560",
+        "path": "/items?ed=2560",
         "headers": {
           "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
         }
@@ -4234,7 +5338,7 @@
       "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
       "transport": {
         "type": "ws",
-        "path": "/game/pics/pdf?ed=2560",
+        "path": "/stock/docs?ed=2560",
         "headers": {
           "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
         }
@@ -4257,7 +5361,7 @@
       "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
       "transport": {
         "type": "ws",
-        "path": "/home/archives?ed=2560",
+        "path": "/picture/docs?ed=2560",
         "headers": {
           "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
         }
@@ -4280,7 +5384,7 @@
       "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
       "transport": {
         "type": "ws",
-        "path": "/vod?ed=2560",
+        "path": "/game?ed=2560",
         "headers": {
           "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
         }
@@ -4303,7 +5407,7 @@
       "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
       "transport": {
         "type": "ws",
-        "path": "/streams/tag?ed=2560",
+        "path": "/china/cp/en?ed=2560",
         "headers": {
           "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
         }
@@ -4326,7 +5430,7 @@
       "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
       "transport": {
         "type": "ws",
-        "path": "/wiki/online/episodes?ed=2560",
+        "path": "/tags/link?ed=2560",
         "headers": {
           "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
         }
@@ -4349,7 +5453,7 @@
       "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
       "transport": {
         "type": "ws",
-        "path": "/app/tv?ed=2560",
+        "path": "/channel/go.php?ed=2560",
         "headers": {
           "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
         }
@@ -4372,7 +5476,7 @@
       "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
       "transport": {
         "type": "ws",
-        "path": "/about?ed=2560",
+        "path": "/comics?ed=2560",
         "headers": {
           "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
         }
@@ -4395,7 +5499,7 @@
       "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
       "transport": {
         "type": "ws",
-        "path": "/play?ed=2560",
+        "path": "/wiki/live/novel?ed=2560",
         "headers": {
           "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
         }
@@ -4418,7 +5522,7 @@
       "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
       "transport": {
         "type": "ws",
-        "path": "/live?ed=2560",
+        "path": "/streams/m?ed=2560",
         "headers": {
           "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
         }
@@ -4441,7 +5545,7 @@
       "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
       "transport": {
         "type": "ws",
-        "path": "/downloads?ed=2560",
+        "path": "/groups/favourites/p?ed=2560",
         "headers": {
           "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
         }
@@ -4464,7 +5568,7 @@
       "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
       "transport": {
         "type": "ws",
-        "path": "/jumping/seller?ed=2560",
+        "path": "/favourites/friend/events?ed=2560",
         "headers": {
           "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
         }
@@ -4487,7 +5591,7 @@
       "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
       "transport": {
         "type": "ws",
-        "path": "/index?ed=2560",
+        "path": "/gif?ed=2560",
         "headers": {
           "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
         }
@@ -4510,7 +5614,7 @@
       "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
       "transport": {
         "type": "ws",
-        "path": "/knowledge/channel?ed=2560",
+        "path": "/season/section/services?ed=2560",
         "headers": {
           "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
         }
@@ -4533,7 +5637,7 @@
       "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
       "transport": {
         "type": "ws",
-        "path": "/home?ed=2560",
+        "path": "/mobile/data/static?ed=2560",
         "headers": {
           "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
         }
@@ -4556,7 +5660,7 @@
       "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
       "transport": {
         "type": "ws",
-        "path": "/services?ed=2560",
+        "path": "/ajax/comic?ed=2560",
         "headers": {
           "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
         }
@@ -4579,7 +5683,7 @@
       "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
       "transport": {
         "type": "ws",
-        "path": "/library/help?ed=2560",
+        "path": "/groups/buy?ed=2560",
         "headers": {
           "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
         }
@@ -4602,7 +5706,7 @@
       "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
       "transport": {
         "type": "ws",
-        "path": "/image/messages/api?ed=2560",
+        "path": "/novels/cb?ed=2560",
         "headers": {
           "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
         }
@@ -4625,7 +5729,7 @@
       "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
       "transport": {
         "type": "ws",
-        "path": "/about/archive?ed=2560",
+        "path": "/lessons?ed=2560",
         "headers": {
           "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
         }
@@ -4648,7 +5752,7 @@
       "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
       "transport": {
         "type": "ws",
-        "path": "/tags?ed=2560",
+        "path": "/detail/dh/course?ed=2560",
         "headers": {
           "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
         }
@@ -4671,7 +5775,7 @@
       "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
       "transport": {
         "type": "ws",
-        "path": "/books/game?ed=2560",
+        "path": "/ads/downloads/read?ed=2560",
         "headers": {
           "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
         }
@@ -4694,7 +5798,7 @@
       "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
       "transport": {
         "type": "ws",
-        "path": "/go.php?ed=2560",
+        "path": "/cn/album?ed=2560",
         "headers": {
           "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
         }
@@ -4717,7 +5821,7 @@
       "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
       "transport": {
         "type": "ws",
-        "path": "/htm/rank?ed=2560",
+        "path": "/picture/videos?ed=2560",
         "headers": {
           "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
         }
@@ -4740,7 +5844,7 @@
       "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
       "transport": {
         "type": "ws",
-        "path": "/thread/clip?ed=2560",
+        "path": "/topic?ed=2560",
         "headers": {
           "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
         }
@@ -4763,7 +5867,7 @@
       "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
       "transport": {
         "type": "ws",
-        "path": "/store/watch/soft?ed=2560",
+        "path": "/intro/travel?ed=2560",
         "headers": {
           "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
         }
@@ -4786,7 +5890,7 @@
       "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
       "transport": {
         "type": "ws",
-        "path": "/dh/seller?ed=2560",
+        "path": "/html/films?ed=2560",
         "headers": {
           "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
         }
@@ -4809,7 +5913,7 @@
       "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
       "transport": {
         "type": "ws",
-        "path": "/source/version?ed=2560",
+        "path": "/reg/photos/friends?ed=2560",
         "headers": {
           "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
         }
@@ -4832,7 +5936,7 @@
       "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
       "transport": {
         "type": "ws",
-        "path": "/class/manhua?ed=2560",
+        "path": "/discount/chat/acg?ed=2560",
         "headers": {
           "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
         }
@@ -4855,7 +5959,7 @@
       "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
       "transport": {
         "type": "ws",
-        "path": "/account?ed=2560",
+        "path": "/tech?ed=2560",
         "headers": {
           "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
         }
@@ -4878,7 +5982,7 @@
       "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
       "transport": {
         "type": "ws",
-        "path": "/study/discount?ed=2560",
+        "path": "/player/list/about?ed=2560",
         "headers": {
           "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
         }
@@ -4901,7 +6005,7 @@
       "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
       "transport": {
         "type": "ws",
-        "path": "/uploads/view?ed=2560",
+        "path": "/film?ed=2560",
         "headers": {
           "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
         }
@@ -4924,7 +6028,7 @@
       "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
       "transport": {
         "type": "ws",
-        "path": "/content/products?ed=2560",
+        "path": "/pics/index/pay?ed=2560",
         "headers": {
           "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
         }
@@ -4947,7 +6051,7 @@
       "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
       "transport": {
         "type": "ws",
-        "path": "/topic?ed=2560",
+        "path": "/contact/images/seller?ed=2560",
         "headers": {
           "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
         }
@@ -4970,7 +6074,7 @@
       "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
       "transport": {
         "type": "ws",
-        "path": "/picture/messages?ed=2560",
+        "path": "/topics/jp?ed=2560",
         "headers": {
           "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
         }
@@ -4993,7 +6097,7 @@
       "password": "4b036e67-dfa7-40d3-8f11-f5ed5e1eb75c",
       "transport": {
         "type": "ws",
-        "path": "/discuss?ed=2560",
+        "path": "/tools/archives/help?ed=2560",
         "headers": {
           "Host": "nova-falcon-stack-7c39.ayhanabdi91130.workers.dev"
         }
@@ -5017,6 +6121,54 @@
         "♻️ 自动选择",
         "🎯 全球直连",
         "سرویس رایگان نوا @irnova_proxy nova-falcon-stack-7c39.ayhanabdi91130.workers.dev:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 198.41.243.80:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 188.114.97.136:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 188.114.96.194:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 188.114.97.130:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 172.65.101.244:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.27.198.227:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 172.67.160.2:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 141.101.120.180:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.25.13.255:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.21.3.54:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 198.41.209.56:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 108.162.198.199:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.25.156.85:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.17.28.216:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.17.155.245:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.27.12.47:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.18.46.151:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.21.41.12:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.27.36.58:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 190.93.244.243:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.18.64.145:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.18.14.196:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.25.237.132:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.17.0.23:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.27.205.191:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 141.101.114.77:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 162.159.138.162:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.25.251.207:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.24.234.25:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 198.41.216.255:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.25.46.118:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.21.94.21:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.16.223.79:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 190.93.244.57:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 198.41.194.15:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.25.129.252:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.19.47.190:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.24.181.197:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.21.193.134:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 108.162.195.41:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.27.115.55:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.18.203.215:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.21.69.132:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.24.179.238:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.18.178.249:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.19.20.252:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.27.35.226:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.25.95.202:443 [TROJAN]",
         "سرویس رایگان نوا @irnova_proxy 104.16.144.15:443 [TROJAN]",
         "سرویس رایگان نوا @irnova_proxy 104.17.101.175:2087 [TROJAN]",
         "سرویس رایگان نوا @irnova_proxy 104.17.156.129:8443 [TROJAN]",
@@ -5236,6 +6388,54 @@
       "tag": "♻️ 自动选择",
       "outbounds": [
         "سرویس رایگان نوا @irnova_proxy nova-falcon-stack-7c39.ayhanabdi91130.workers.dev:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 198.41.243.80:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 188.114.97.136:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 188.114.96.194:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 188.114.97.130:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 172.65.101.244:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.27.198.227:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 172.67.160.2:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 141.101.120.180:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.25.13.255:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.21.3.54:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 198.41.209.56:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 108.162.198.199:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.25.156.85:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.17.28.216:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.17.155.245:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.27.12.47:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.18.46.151:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.21.41.12:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.27.36.58:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 190.93.244.243:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.18.64.145:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.18.14.196:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.25.237.132:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.17.0.23:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.27.205.191:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 141.101.114.77:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 162.159.138.162:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.25.251.207:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.24.234.25:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 198.41.216.255:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.25.46.118:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.21.94.21:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.16.223.79:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 190.93.244.57:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 198.41.194.15:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.25.129.252:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.19.47.190:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.24.181.197:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.21.193.134:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 108.162.195.41:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.27.115.55:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.18.203.215:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.21.69.132:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.24.179.238:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.18.178.249:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.19.20.252:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.27.35.226:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.25.95.202:443 [TROJAN]",
         "سرویس رایگان نوا @irnova_proxy 104.16.144.15:443 [TROJAN]",
         "سرویس رایگان نوا @irnova_proxy 104.17.101.175:2087 [TROJAN]",
         "سرویس رایگان نوا @irnova_proxy 104.17.156.129:8443 [TROJAN]",
@@ -5462,6 +6662,54 @@
         "♻️ 自动选择",
         "🎯 全球直连",
         "سرویس رایگان نوا @irnova_proxy nova-falcon-stack-7c39.ayhanabdi91130.workers.dev:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 198.41.243.80:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 188.114.97.136:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 188.114.96.194:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 188.114.97.130:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 172.65.101.244:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.27.198.227:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 172.67.160.2:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 141.101.120.180:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.25.13.255:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.21.3.54:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 198.41.209.56:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 108.162.198.199:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.25.156.85:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.17.28.216:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.17.155.245:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.27.12.47:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.18.46.151:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.21.41.12:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.27.36.58:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 190.93.244.243:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.18.64.145:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.18.14.196:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.25.237.132:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.17.0.23:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.27.205.191:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 141.101.114.77:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 162.159.138.162:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.25.251.207:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.24.234.25:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 198.41.216.255:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.25.46.118:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.21.94.21:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.16.223.79:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 190.93.244.57:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 198.41.194.15:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.25.129.252:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.19.47.190:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.24.181.197:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.21.193.134:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 108.162.195.41:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.27.115.55:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.18.203.215:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.21.69.132:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.24.179.238:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.18.178.249:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.19.20.252:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.27.35.226:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.25.95.202:443 [TROJAN]",
         "سرویس رایگان نوا @irnova_proxy 104.16.144.15:443 [TROJAN]",
         "سرویس رایگان نوا @irnova_proxy 104.17.101.175:2087 [TROJAN]",
         "سرویس رایگان نوا @irnova_proxy 104.17.156.129:8443 [TROJAN]",
@@ -5708,6 +6956,54 @@
         "♻️ 自动选择",
         "🎯 全球直连",
         "سرویس رایگان نوا @irnova_proxy nova-falcon-stack-7c39.ayhanabdi91130.workers.dev:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 198.41.243.80:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 188.114.97.136:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 188.114.96.194:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 188.114.97.130:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 172.65.101.244:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.27.198.227:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 172.67.160.2:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 141.101.120.180:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.25.13.255:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.21.3.54:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 198.41.209.56:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 108.162.198.199:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.25.156.85:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.17.28.216:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.17.155.245:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.27.12.47:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.18.46.151:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.21.41.12:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.27.36.58:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 190.93.244.243:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.18.64.145:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.18.14.196:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.25.237.132:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.17.0.23:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.27.205.191:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 141.101.114.77:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 162.159.138.162:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.25.251.207:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.24.234.25:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 198.41.216.255:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.25.46.118:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.21.94.21:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.16.223.79:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 190.93.244.57:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 198.41.194.15:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.25.129.252:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.19.47.190:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.24.181.197:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.21.193.134:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 108.162.195.41:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.27.115.55:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.18.203.215:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.21.69.132:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.24.179.238:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.18.178.249:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.19.20.252:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.27.35.226:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.25.95.202:443 [TROJAN]",
         "سرویس رایگان نوا @irnova_proxy 104.16.144.15:443 [TROJAN]",
         "سرویس رایگان نوا @irnova_proxy 104.17.101.175:2087 [TROJAN]",
         "سرویس رایگان نوا @irnova_proxy 104.17.156.129:8443 [TROJAN]",
@@ -5941,6 +7237,54 @@
         "🎯 全球直连",
         "🔰 节点选择",
         "سرویس رایگان نوا @irnova_proxy nova-falcon-stack-7c39.ayhanabdi91130.workers.dev:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 198.41.243.80:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 188.114.97.136:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 188.114.96.194:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 188.114.97.130:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 172.65.101.244:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.27.198.227:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 172.67.160.2:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 141.101.120.180:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.25.13.255:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.21.3.54:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 198.41.209.56:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 108.162.198.199:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.25.156.85:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.17.28.216:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.17.155.245:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.27.12.47:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.18.46.151:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.21.41.12:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.27.36.58:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 190.93.244.243:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.18.64.145:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.18.14.196:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.25.237.132:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.17.0.23:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.27.205.191:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 141.101.114.77:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 162.159.138.162:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.25.251.207:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.24.234.25:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 198.41.216.255:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.25.46.118:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.21.94.21:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.16.223.79:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 190.93.244.57:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 198.41.194.15:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.25.129.252:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.19.47.190:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.24.181.197:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.21.193.134:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 108.162.195.41:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.27.115.55:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.18.203.215:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.21.69.132:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.24.179.238:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.18.178.249:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.19.20.252:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.27.35.226:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.25.95.202:443 [TROJAN]",
         "سرویس رایگان نوا @irnova_proxy 104.16.144.15:443 [TROJAN]",
         "سرویس رایگان نوا @irnova_proxy 104.17.101.175:2087 [TROJAN]",
         "سرویس رایگان نوا @irnova_proxy 104.17.156.129:8443 [TROJAN]",
@@ -6164,6 +7508,54 @@
         "🔰 节点选择",
         "🎯 全球直连",
         "سرویس رایگان نوا @irnova_proxy nova-falcon-stack-7c39.ayhanabdi91130.workers.dev:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 198.41.243.80:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 188.114.97.136:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 188.114.96.194:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 188.114.97.130:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 172.65.101.244:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.27.198.227:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 172.67.160.2:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 141.101.120.180:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.25.13.255:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.21.3.54:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 198.41.209.56:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 108.162.198.199:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.25.156.85:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.17.28.216:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.17.155.245:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.27.12.47:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.18.46.151:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.21.41.12:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.27.36.58:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 190.93.244.243:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.18.64.145:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.18.14.196:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.25.237.132:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.17.0.23:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.27.205.191:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 141.101.114.77:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 162.159.138.162:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.25.251.207:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.24.234.25:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 198.41.216.255:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.25.46.118:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.21.94.21:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.16.223.79:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 190.93.244.57:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 198.41.194.15:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.25.129.252:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.19.47.190:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.24.181.197:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.21.193.134:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 108.162.195.41:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.27.115.55:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.18.203.215:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.21.69.132:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.24.179.238:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.18.178.249:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.19.20.252:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.27.35.226:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.25.95.202:443 [TROJAN]",
         "سرویس رایگان نوا @irnova_proxy 104.16.144.15:443 [TROJAN]",
         "سرویس رایگان نوا @irnova_proxy 104.17.101.175:2087 [TROJAN]",
         "سرویس رایگان نوا @irnova_proxy 104.17.156.129:8443 [TROJAN]",
@@ -6388,6 +7780,54 @@
         "🎯 全球直连",
         "♻️ 自动选择",
         "سرویس رایگان نوا @irnova_proxy nova-falcon-stack-7c39.ayhanabdi91130.workers.dev:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 198.41.243.80:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 188.114.97.136:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 188.114.96.194:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 188.114.97.130:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 172.65.101.244:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.27.198.227:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 172.67.160.2:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 141.101.120.180:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.25.13.255:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.21.3.54:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 198.41.209.56:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 108.162.198.199:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.25.156.85:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.17.28.216:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.17.155.245:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.27.12.47:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.18.46.151:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.21.41.12:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.27.36.58:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 190.93.244.243:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.18.64.145:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.18.14.196:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.25.237.132:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.17.0.23:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.27.205.191:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 141.101.114.77:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 162.159.138.162:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.25.251.207:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.24.234.25:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 198.41.216.255:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.25.46.118:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.21.94.21:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.16.223.79:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 190.93.244.57:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 198.41.194.15:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.25.129.252:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.19.47.190:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.24.181.197:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.21.193.134:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 108.162.195.41:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.27.115.55:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.18.203.215:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.21.69.132:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.24.179.238:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.18.178.249:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.19.20.252:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.27.35.226:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.25.95.202:443 [TROJAN]",
         "سرویس رایگان نوا @irnova_proxy 104.16.144.15:443 [TROJAN]",
         "سرویس رایگان نوا @irnova_proxy 104.17.101.175:2087 [TROJAN]",
         "سرویس رایگان نوا @irnova_proxy 104.17.156.129:8443 [TROJAN]",
@@ -6631,6 +8071,54 @@
         "🎯 全球直连",
         "♻️ 自动选择",
         "سرویس رایگان نوا @irnova_proxy nova-falcon-stack-7c39.ayhanabdi91130.workers.dev:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 198.41.243.80:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 188.114.97.136:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 188.114.96.194:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 188.114.97.130:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 172.65.101.244:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.27.198.227:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 172.67.160.2:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 141.101.120.180:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.25.13.255:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.21.3.54:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 198.41.209.56:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 108.162.198.199:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.25.156.85:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.17.28.216:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.17.155.245:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.27.12.47:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.18.46.151:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.21.41.12:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.27.36.58:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 190.93.244.243:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.18.64.145:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.18.14.196:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.25.237.132:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.17.0.23:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.27.205.191:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 141.101.114.77:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 162.159.138.162:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.25.251.207:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.24.234.25:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 198.41.216.255:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.25.46.118:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.21.94.21:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.16.223.79:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 190.93.244.57:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 198.41.194.15:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.25.129.252:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.19.47.190:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.24.181.197:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.21.193.134:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 108.162.195.41:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.27.115.55:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.18.203.215:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.21.69.132:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.24.179.238:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.18.178.249:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.19.20.252:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.27.35.226:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.25.95.202:443 [TROJAN]",
         "سرویس رایگان نوا @irnova_proxy 104.16.144.15:443 [TROJAN]",
         "سرویس رایگان نوا @irnova_proxy 104.17.101.175:2087 [TROJAN]",
         "سرویس رایگان نوا @irnova_proxy 104.17.156.129:8443 [TROJAN]",
@@ -6853,6 +8341,54 @@
         "📊 0.00GB / 9999GB (0%)  |  📅 2099-01-01",
         "DIRECT",
         "سرویس رایگان نوا @irnova_proxy nova-falcon-stack-7c39.ayhanabdi91130.workers.dev:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 198.41.243.80:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 188.114.97.136:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 188.114.96.194:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 188.114.97.130:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 172.65.101.244:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.27.198.227:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 172.67.160.2:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 141.101.120.180:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.25.13.255:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.21.3.54:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 198.41.209.56:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 108.162.198.199:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.25.156.85:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.17.28.216:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.17.155.245:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.27.12.47:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.18.46.151:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.21.41.12:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.27.36.58:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 190.93.244.243:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.18.64.145:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.18.14.196:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.25.237.132:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.17.0.23:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.27.205.191:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 141.101.114.77:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 162.159.138.162:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.25.251.207:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.24.234.25:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 198.41.216.255:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.25.46.118:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.21.94.21:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.16.223.79:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 190.93.244.57:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 198.41.194.15:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.25.129.252:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.19.47.190:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.24.181.197:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.21.193.134:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 108.162.195.41:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.27.115.55:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.18.203.215:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.21.69.132:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.24.179.238:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.18.178.249:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.19.20.252:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.27.35.226:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.25.95.202:443 [TROJAN]",
         "سرویس رایگان نوا @irnova_proxy 104.16.144.15:443 [TROJAN]",
         "سرویس رایگان نوا @irnova_proxy 104.17.101.175:2087 [TROJAN]",
         "سرویس رایگان نوا @irnova_proxy 104.17.156.129:8443 [TROJAN]",
